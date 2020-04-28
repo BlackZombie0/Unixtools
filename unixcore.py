@@ -1,4 +1,4 @@
-## unixtools.py - Unixtools v1.0
+## unixcore.py - Unixtools v3.0
 # -*- coding: utf-8 -*-
 import os
 import sys
