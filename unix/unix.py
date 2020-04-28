@@ -1,4 +1,4 @@
-## unixtools.py - useful module of unixtools
+## unixtools.py - useful module of Unixtools
 # -*- coding: utf-8 -*-
 import os
 import sys
