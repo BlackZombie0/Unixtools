@@ -2,7 +2,7 @@
 
 Installation and Using UNIXtools
 
-git clone 
+git clone https://github.com/MoussaUnix/Unixtools.git
 
 cd Unixtools
 
