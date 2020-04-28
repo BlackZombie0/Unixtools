@@ -2,10 +2,10 @@
 
 Installation and Using UNIXtools
 
-git clone https://github.com/MoussaUnix/UNIXtools.git
+git clone 
 
-cd UNIXtools
+cd Unixtools
 
 chmod 777 unixtools.py
 
-python2 unixtools.py
+python2 unixcore.py
